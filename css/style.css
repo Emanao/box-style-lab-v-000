@@ -48,7 +48,7 @@ h4.indifferent {
   box-shadow:  -1px 1px #BE242D, -2px 2px #BE242D, -3px 3px #BE242D, -4px 4px #BE242D, -5px 5px #BE242D;
   background-color: #dd4444;
 }
-h4.amiable, h4.indifferent , h4.dubious {
+h4.dubious {
   background: linear-gradient(to right, #700, #a00);
 }
 
